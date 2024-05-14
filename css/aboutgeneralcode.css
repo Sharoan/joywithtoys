@@ -35,8 +35,8 @@ html{
 }
 
 #containerInfo,#containerImage,#locationMap,#locationAdd{
-    width: 500px;
-    height: 50%;
+     width: 45vw;
+    height: 70%;
     display: flex;
     justify-content: center;
     align-items: center;
